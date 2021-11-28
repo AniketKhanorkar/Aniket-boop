@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aniket-boop
+- 👋 Hi, I’m @Aniket-Khanorkar
 - 👀 I’m interested in Coading
 - 🌱 I’m currently learning Web Technology
 - 💞️ I’m looking to collaborate on ...
